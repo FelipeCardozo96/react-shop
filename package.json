@@ -1,0 +1,23 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "Shoption: Tienda creada con: HTML, CSS, JavaScript y React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016react-shop.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "ecommerce",
+    "responsive",
+    "css",
+    "html"
+  ],
+  "author": "Felipe Cardozo",
+  "license": "MIT"
+}
